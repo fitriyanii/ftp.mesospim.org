@@ -1,1 +1,1 @@
-# ftp.visualizingrights.org
+# ftp.mesospim.org
